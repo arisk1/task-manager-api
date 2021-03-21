@@ -1,5 +1,6 @@
 # task-manager-api
 Technologies : Node.js 
+
 App is deployed on Heroku : https://ak96-task-manager.herokuapp.com/
 
 ## INSTALLING PREREQUISITES AND THE APP
